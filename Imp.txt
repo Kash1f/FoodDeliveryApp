@@ -1,0 +1,7 @@
+
+
+showsHorizontalScrollIndicator={false}
+
+Categories:
+
+For the Categories we'll be using Dynamic Values for all the categories coming from the sanity but for now we have not implemented sanity yet so we'll use dummy data by creating a folder constants.
